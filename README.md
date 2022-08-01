@@ -7,7 +7,7 @@
 
 🎓 Aerospace Engineer
 
-🛩️ Pilot under training
+🛩️ Pilot student
 
 🔭 Nowadays I'm learning PHP and developing projects in React and NextJS. The last one was the webapp <a href='https://nextjs-coinfetch.vercel.app/'>Coinfetch</a>.
 
