@@ -79,9 +79,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walan981&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walan981&layout=compact&theme=radical)](https://github.com/walan981/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walan981&layout=compact)](https://github.com/walan981/github-readme-stats)
-
-<img alt="walan981 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walan981&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true" height="198px"/>
 
 
 
