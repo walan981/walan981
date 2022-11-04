@@ -9,7 +9,7 @@
 
 🛩️ Pilot student
 
-🔭 Nowadays I'm learning PHP and developing projects in React and NextJS. The last one was the webapp <a href='https://nextjs-coinfetch.vercel.app/'>Coinfetch</a>.
+🔭 Nowadays I'm learning VueJS and developing projects in React and NextJS. The last one was the webapp <a href='https://nextjs-coinfetch.vercel.app/'>Coinfetch</a>. My most exciting project right now is the social network <a href='https://instagram-v2-psi.vercel.app/meupet'>meuPet</a>. Come and check them!
 
 💬 I'm attracted in solving programming challenges and seeking to start into the tech market asap. If you want to chat with me, don't hesitate to get in touch!
 
